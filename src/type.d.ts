@@ -4,7 +4,7 @@ interface IFruit {
   fruitColor: string;
 }
 
-type fruitsState = {
+type FruitsState = {
   fruits: IFruit[];
 };
 
